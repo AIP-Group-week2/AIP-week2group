@@ -16,4 +16,8 @@ George(first person) Vs. Shawn (second) he will fix merge conflict so let see wh
 
 this is no.3 Paragrap 
 
+<<<<<<< HEAD
 This time eric (second peron)to fix merge conflict vs. George
+=======
+George help eric for Group test
+>>>>>>> f578c97d82f24e767cd93a1d1b228e1169cc3a18
