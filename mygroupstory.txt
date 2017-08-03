@@ -15,3 +15,5 @@ George(first person) Vs. Shawn (second) he will fix merge conflict so let see wh
 >>>>>>> ce83beabd1badc1cad5f95696e15b6f31a722dd3
 
 this is no.3 Paragrap 
+
+George help eric for Group test
