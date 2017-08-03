@@ -7,3 +7,5 @@ George(second person) VS. Shawn (first person) so George got fix merge conflict
 =======
 This is test 2 peoples add or edit line to the story-merge conflict-SHAWN(first people) vs George(second people)
 >>>>>>> 08fb57ae07264ff95e77040f6e81ff58019a4305
+
+George(first person) Vs. Shawn (second) he will fix merge conflict so let see what's happen
