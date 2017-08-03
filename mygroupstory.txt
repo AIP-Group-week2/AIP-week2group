@@ -2,4 +2,8 @@ Today is Thursday,I'm very happy work with my group,My name is George,this is ou
 
 Continue story...... my name is xiaohan wang, this is second paragraph. 
 
+<<<<<<< HEAD
 George(second person) VS. Shawn (first person) so George got fix merge conflict
+=======
+This is test 2 peoples add or edit line to the story-merge conflict-SHAWN(first people) vs George(second people)
+>>>>>>> 08fb57ae07264ff95e77040f6e81ff58019a4305
